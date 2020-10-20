@@ -1,0 +1,18 @@
+{
+  "name": "lessson-one",
+  "version": "1.0.0",
+  "description": "Our first Node app.",
+  "main": "main.js",
+  "scripts": {
+    "exec": "node ./main.js",
+    "watch": "nodemon ./main.js"
+  },
+  "author": "Aleksandar Bencun",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
